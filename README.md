@@ -3,10 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Contribution of the group members:
+    Ash Kandary: Feedback page, Video call page, Message page, Payment Confirmation page, css files.
     Khanh Duy Nguyen: Landing page, Forum page, Search page, Sign In page, css files
     Xiudeng Zhang: Search page, Booking page, Booking history page, Payment page, Payment Confirmation page, css files
     Hsien-Hao Chang: Edit Profile page, Profile pagge, Expert page, css file
-    Ash Kandary: Feedback page, Video call page, Message page, Payment Confirmation page, css files
 # The dependencies need to install:
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
