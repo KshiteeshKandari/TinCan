@@ -1,0 +1,74 @@
+.tab-item {
+  font-size: 16px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 600;
+  color: #8b8b8b;
+  cursor: pointer;
+}
+
+.backgroundShape2 {
+  position: absolute;
+  width: calc(100% - 84.42px);
+  right: 53.89px;
+  bottom: 26.16px;
+  left: 30.53px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 259.17px;
+  opacity: 0.5;
+}
+.leafBottomIcon {
+  position: absolute;
+  top: calc(50% - 190.74px);
+  left: calc(50% + 98.57px);
+  width: 223.42px;
+  height: 298.11px;
+}
+.leafTopIcon {
+  position: absolute;
+  top: 0;
+  left: 82.25px;
+  width: 162.26px;
+  height: 214.74px;
+  opacity: 0.2;
+}
+.plantRightIcon {
+  position: absolute;
+  right: 0;
+  bottom: 1.08px;
+  width: 277.99px;
+  height: 433.11px;
+  opacity: 0.7;
+}
+.plantLeftIcon {
+  position: absolute;
+  height: calc(100% - 36.33px);
+  top: 36.33px;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 301.63px;
+  opacity: 0.5;
+}
+.macetaIcon {
+  position: absolute;
+  bottom: 0;
+  left: 10.81px;
+  width: 80.8px;
+  height: 94.06px;
+}
+.topLeavesIcon {
+  position: absolute;
+  top: calc(50% - 190.74px);
+  right: 69.49px;
+  width: 264.39px;
+  height: 259.64px;
+}
+.shape2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 690.03px;
+}

@@ -1,0 +1,56 @@
+.person-card {
+    display: flex;
+    align-items: flex-start;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 16px;
+    width: 400px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .person-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 16px;
+  }
+  
+  .person-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .person-info h3 {
+    margin: 0 0 4px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  
+  .person-info h4 {
+    margin: 0 0 8px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .person-info p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .person-rating {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .person-rating img {
+    width: 50px;
+    height: 20px;
+    
+    
+    background-color: #f7f7f7;
+    margin-left: 20px;
+  }
+  
